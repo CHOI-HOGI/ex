@@ -6,4 +6,4 @@ ESP-WROOM-32 | LEVEL_SHIFT | NeoPixe
 3V3 | LV |
 GND | GND(LV,MV side) | GND
 D4 | LV1 |
- | MV1 | Din
+	| MV1 | Din
