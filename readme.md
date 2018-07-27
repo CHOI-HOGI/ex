@@ -1,8 +1,8 @@
 Wiring Table
 ============
-|:----:|:----:|:----:|
+
 |ESP-WROOM-32 | LEVEL_SHIFT | NeoPixel|
-|--------------- | ------------ | -----|
+|:----:|:----:|:----:|
 |5V | MV | VCC|
 |3V3 | LV ||
 |GND | GND(LV,MV side) | GND|
