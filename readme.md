@@ -1,6 +1,7 @@
 Wiring Table
 ============
-|ESP-WROOM-32 | LEVEL_SHIFT | NeoPixe|
+|:--------------:|:------------:|:---------:|
+|ESP-WROOM-32 | LEVEL_SHIFT | NeoPixel|
 |--------------- | ------------ | -----|
 |5V | MV | VCC|
 |3V3 | LV ||
