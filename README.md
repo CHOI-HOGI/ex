@@ -17,19 +17,6 @@ Pin Map
 |D19||MISO|
 |D27||XDCS|
 
-|ESP-SROOM-32|Adafruit_VS1053 (PLAY MUSIC)|
-|:----:|:----:|
-|3V3|3V|
-|GND|GND|
-|VIN|VCC(amp)|
-|D5|SCK|
-|D26|reset|
-|D12|MP3CS|
-|D14|DREQ|
-|D18|MOSI|
-|D19|MISO|
-|D27|XDCS|
-
 |Adafruit_VS1053 (PLAY MUSIC)|SPEAKER|
 |:----:|:----:|
 |RIGHT +|VCC|
