@@ -1,4 +1,4 @@
-Wiring Table
+Pin Map
 ============
 
 |ESP-WROOM-32 | LEVEL_SHIFT | NeoPixel|
